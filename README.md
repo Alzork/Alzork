@@ -37,3 +37,7 @@ Grafana · Flask · aiogram · 1C
 
 - Email: zorkinalexander99@gmail.com
 - Telegram: [@alzorkk](https://t.me/alzorkk)
+
+### Resume
+
+- https://drive.google.com/file/d/1NeubA-oLlD40toSMQjzjjVFK1SKnza-w/view?usp=share_link
