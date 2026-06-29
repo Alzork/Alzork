@@ -17,8 +17,7 @@ manual work out of business processes, from requirements to deployment.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
-Python · OpenAI API · RAG · pgvector · SQL / PostgreSQL · ETL · n8n · Docker ·
-Grafana · Flask · aiogram · 1C
+Python, OpenAI API, RAG, pgvector, SQL / PostgreSQL, ETL, n8n, Docker, Grafana, Flask, aiogram, 1C
 
 ### Projects
 
