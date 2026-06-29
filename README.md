@@ -6,7 +6,6 @@ manual work out of business processes, from requirements to deployment.
 - Currently building ETL pipelines, LLM bots, a RAG system and Grafana analytics
   at a manufacturing company.
 - Linguistics graduate (B.A.), which helps with language-facing LLM and NLP work.
-- English C1.
 
 ### Tech
 
